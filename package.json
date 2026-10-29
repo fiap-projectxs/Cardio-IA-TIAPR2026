@@ -21,5 +21,18 @@
     "@vitejs/plugin-react": "^6.0.4",
     "oxlint": "^1.75.0",
     "vite": "^8.2.0"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRWGi/Cardio-IA-TIAPR2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IRWGi/Cardio-IA-TIAPR2026/issues"
+  },
+  "homepage": "https://github.com/IRWGi/Cardio-IA-TIAPR2026#readme"
 }
