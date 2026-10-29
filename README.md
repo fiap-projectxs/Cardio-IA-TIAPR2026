@@ -1,16 +1,81 @@
-# React + Vite
+# Cardio IA
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Projeto desenvolvido para a criação de uma plataforma inteligente voltada ao acompanhamento e à análise de informações relacionadas à saúde cardiovascular.
 
-Currently, two official plugins are available:
+## Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O Cardio IA é uma aplicação web desenvolvida com React e Vite. A proposta é utilizar tecnologia e inteligência artificial para organizar informações, facilitar o acompanhamento de indicadores e oferecer uma experiência simples, moderna e acessível ao usuário.
 
-## React Compiler
+O projeto faz parte das atividades acadêmicas da turma TIAPR 2026.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tecnologias utilizadas
 
-## Expanding the Oxlint configuration
+- React
+- Vite
+- JavaScript
+- React Router
+- Lucide React
+- HTML5
+- CSS3
+- Git e GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/fiap-projectxs/CARDIOAI-PROJECT.git
+
+Acesse a pasta:
+
+cd CARDIOAI-PROJECT
+
+Instale as dependências:
+
+npm install
+
+Execute o projeto em ambiente de desenvolvimento:
+
+npm run dev
+
+Depois, abra no navegador o endereço indicado pelo Vite, normalmente:
+
+http://localhost:5173
+Scripts disponíveis
+npm run dev
+
+Inicia o servidor de desenvolvimento.
+
+npm run build
+
+Gera a versão de produção.
+
+npm run preview
+
+Executa uma prévia da versão de produção.
+
+npm run lint
+
+Verifica possíveis problemas no código.
+
+Estrutura básica
+CARDIOAI-PROJECT/
+├── public/
+├── src/
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+Objetivos
+Desenvolver uma interface web moderna e responsiva.
+Organizar informações relacionadas à saúde cardiovascular.
+Facilitar a visualização de dados e indicadores.
+Aplicar conhecimentos de desenvolvimento Front-end.
+Criar uma base preparada para futuras integrações com inteligência artificial.
+Observação
+
+O Cardio IA é um projeto acadêmico e não substitui avaliação, diagnóstico ou acompanhamento realizado por profissionais da saúde.
+
+Equipe
+
+Projeto desenvolvido pelos estudantes da turma TIAPR 2026.
